@@ -1,7 +1,14 @@
-/**
- * Implement Gatsby's Browser APIs in this file.
- *
- * See: https://www.gatsbyjs.org/docs/browser-apis/
- */
+const React = require('react')
+const { theme } = require('./src/config/theme')
+const { Fragment } = require('react')
+const { ThemeProvider } = require('styled-components')
+require('bootstrap/dist/css/bootstrap.min.css')
+require('shards-ui/dist/css/shards.min.css')
 
-// You can delete this file if you're not using it
+exports.wrapRootElement = ({ element }) => {
+    return (
+        <Fragment>
+            <ThemeProvider theme={theme}>{element}</ThemeProvider>
+        </Fragment>
+    )
+}
