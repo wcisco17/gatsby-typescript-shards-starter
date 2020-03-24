@@ -27,7 +27,7 @@
 
     ```shell
     cd new shards-typescript-starter/
-    yarn dev
+    gatsby develop
     ```
 
 ## 🧐 What's inside?
