@@ -31,7 +31,8 @@ const Naviations: React.FC<IProps> = ({ children }) => {
                                     <Navs>
                                         <NavItem>
                                             <Button
-                                                title='Download Resume'
+                                                title='Download Repo'
+                                                onClick={() => window.open('https://github.com/wcisco17/gatsby-typescript-shards-starter')}
                                             />
                                         </NavItem>
                                     </Navs>

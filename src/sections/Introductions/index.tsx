@@ -33,7 +33,7 @@ const Introduction: React.FC<IntroductionProps> = ({ name }) => {
                         <br />
                         <div className="content-button01">
                             <Button
-                                title="Let's Chat"
+                                title="Check out my Github"
                                 classes='btn01'
                                 size='lg'
                                 onClick={() => window.open('https://github.com/wcisco17/')}
