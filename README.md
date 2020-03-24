@@ -1,11 +1,14 @@
+
+
+<p align="center">
+    <a href="https://shards-gatsby-starter.netlify.com/">
+  <img src="https://shards-gatsby-starter.netlify.com/static/6ec794a4ad26b1525810ccc0fa3476fc/a406c/logo-gatsby.png" />
+  </a>
+</p>
+
 <h1 align="center">
   Shards Typescript Starter
 </h1>
-
-<h1 align="center">
-   
- </h1>
-
 
 ## 🚀 Quick start
 
