@@ -12,7 +12,7 @@ interface IntroductionProps {
 const Introduction: React.FC<IntroductionProps> = ({ name }) => {
     return (
         <Fragment>
-            <Containe >
+            <Containe>
                 <Row>
                     <Content>
                         <Text style={{ fontSize: '20px' }} colors={Colors.pink} >
