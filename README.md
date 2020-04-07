@@ -10,6 +10,8 @@
   Shards Typescript Starter
 </h1>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8e7143a5-2f5e-45a6-8bb3-b9e462e33195/deploy-status)](https://app.netlify.com/sites/shards-gatsby-starter/deploys)
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
